@@ -1,8 +1,8 @@
 # Saltwater Verdict — Tuesday 24 November 2026 in one image
 
-[![Bounty: news-image-20261124](https://img.shields.io/badge/bounty-news--image--20261124-blue)](https://make.fun/bounty/news-image-20261124)
-[![Prize: $100](https://img.shields.io/badge/prize-%24100%20%E2%80%A2%2050%20winners-green)](https://make.fun/bounty/news-image-20261124)
-[![36 dated stories](https://img.shields.io/badge/stories-36%20dated%20%E2%80%A2%206%20regions-orange)](https://make.fun/bounty/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/dentybaiq/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/dentybaiq/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 **Bounty:** [Sum up 24 November's world news in one image](https://make.fun/bounty/news-image-20261124) — $100 shared by the 50 highest-ranked entries. Entries close Wed 26 Nov 2026 07:00 WIB (2026-11-26T00:00:00Z).
 
